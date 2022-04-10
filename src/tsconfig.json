@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "module": "ES2020",
+    "target": "ES2015",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "experimentalDecorators": true,
+    "declaration": true,
+    "declarationMap": true,
+    "declarationDir": "dist",  
+    "outDir": "dist"  
+  }
+}
